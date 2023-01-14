@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625816487 source:c:\users\rithik\desktop\project library\main.cpp
+	"source.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctype.h>
+
+1625816487 c:\users\rithik\desktop\project library\source.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	<limits>
+
